@@ -1,9 +1,9 @@
 html,
 body {
     height: 100%;
-    background-image: url(./public/images/MusicBlackBackground.png);
+    background-color:#fffffd;
     font-family: 'Boogaloo', cursive;
-    color:white;
+    color:black;
 }
 
 .main-container {
@@ -11,5 +11,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.h1 {
+    text-align: right;
 }
 
