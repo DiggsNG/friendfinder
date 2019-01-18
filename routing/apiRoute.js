@@ -16,9 +16,11 @@ app.get('/api/friends', function(req, res) {
 app.post('/api/friends', function(req, res) {
   // Capture the user input object
   var userData = req.body;
+  // console.log(userData);
   // console.log('userInput = ' + JSON.stringify(userInput));
 
-  var userResponses = userData.scores;
+  //console.log({userData, body:req.})
+  var userResponses = userData['scores[]'];
   // console.log('userResponses = ' + userResponses);
 
   // Compute best friend match
