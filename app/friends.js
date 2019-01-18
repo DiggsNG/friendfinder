@@ -1,8 +1,8 @@
 // Data structure that will store the friends data
 var friendsArray = [
 	{
-		name: 'Mary',
-		photo:"https://www.google.com/imgres?imgurl=http%3A%2F%2Fwelcomenri.com%2FTop-News%2Fnew-img%2Fpoonam-bajwa-topless-images-photos-and-wallpapers11.jpg&imgrefurl=http%3A%2F%2Fwelcomenri.com%2FTop-News%2Fpoonam-bajwa-topless-images-photos-and-wallpapers.aspx&docid=NxUAvGnvJd56mM&tbnid=n4gPWc-Mrqvw9M%3A&vet=10ahUKEwi3lJ6tl_TfAhVn2oMKHVHUCmIQMwirASg2MDY..i&w=760&h=1089&safe=active&bih=556&biw=1330&q=images%20photos&ved=0ahUKEwi3lJ6tl_TfAhVn2oMKHVHUCmIQMwirASg2MDY&iact=mrc&uact=8",
+		name: 'Michael Douglas',
+		photo:"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Michael_Douglas_Deauville_2013.jpg/230px-Michael_Douglas_Deauville_2013.jpg",
 		scores: [
 			'1',
 			'5',
@@ -129,8 +129,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Kermit the Frog',
-		photo: 'http://i.dailymail.co.uk/i/pix/2015/09/02/08/2BE5406100000578-3218820-image-m-25_1441179775589.jpg',
+		name: 'Kobe Bryant',
+		photo: 'https://www.google.com/search/static/gs/m01kmd4.html',
 		scores: [
 			'5',
 			'5',
@@ -145,8 +145,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Elmo',
-		photo: 'http://1rjm5qg4v8732kpmn44ya6bj-wpengine.netdna-ssl.com/wp-content/uploads/2012/11/elmo-6601.png',
+		name: 'Nick Fury',
+		photo: 'http://marvelcinematicuniverse.wikia.com/wiki/File:NickFury2-IM.png',
 		scores: [
 			'1',
 			'1',
