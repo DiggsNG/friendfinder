@@ -7,4 +7,4 @@
  This applicaiotn was developed using *Node.js*, *Express Server*, and *Heroku* on the backend and *HTML*,and *Bootstrap*, and  *CSS*, on the frontend.*
  http://github.com - automatic!
 ## Accessing/Demonstrating FriendsFinder
-   In order to really get the full benefit of this application, users need to gain access to it. As stated, this application is deployed using Heroku and can be accessed by clicking [here](https://dashboard.heroku.com/apps/vast-citadel-83734).
+   In order to really get the full benefit of this application, users need to gain access to it. As stated, this application is deployed using *Heroku* and can be accessed by clicking [here](https://dashboard.heroku.com/apps/vast-citadel-83734). Please click now, have fun and see if you can find the *friend of your dreams*.
